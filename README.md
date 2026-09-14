@@ -71,3 +71,19 @@ Screenshots/         → Project screenshots
 Code/                → Scripts and implementation
 Documentation/       → Project documents
 Demo/                → Demonstration material
+## Project Screenshots
+
+### Drone CAD Design
+![Drone CAD](01_Drone_CAD.png)
+
+### Disaster Environment
+![Drone Environment](02_Drone_Environment.png)
+
+### Smoke Detection
+![Smoke Detection](03_Smoke_Detected.png)
+
+### Human Detection
+![Human Detection](04_Human_Detected.png)
+
+### Return to Base
+![Return to Base](05_Return_To_Base.png)
